@@ -1,2 +1,2 @@
 # L2_base
-123
+https://www.codewars.com/users/migrenybivaet/stats
